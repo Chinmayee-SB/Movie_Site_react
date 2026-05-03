@@ -4,7 +4,8 @@ A modern movie discovery web app built using **React (Vite)**, powered by the **
 
 ---
 
-## 🚀 Live Demo: https://movie-site-react-chinmayee-sbs-projects.vercel.app/
+## 🚀 Live Demo: 
+https://movie-site-react-chinmayee-sbs-projects.vercel.app/
 
 ---
 
@@ -138,7 +139,8 @@ Deployed using Vercel:
 
 ---
 
-## Author: Chinmayee S. Bharadwaj**
+## Author: 
+Chinmayee S. Bharadwaj**
 
 ---
 
